@@ -3,7 +3,9 @@ import React from "react";
 function Dashboard() {
   return (
     <div>
-      <div>this is a dashboard</div>
+      <div className="text-white">
+        <h1>this is a dashboard</h1>
+      </div>
     </div>
   );
 }
